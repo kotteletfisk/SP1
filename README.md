@@ -1,1 +1,3 @@
-# SP1
+# SP1 repository
+
+and other small projects...
